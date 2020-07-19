@@ -2,7 +2,7 @@
 
 I'm Himself65
 
-- undergraduate [@iastate](https://github.com/iastate)
+- Undergraduate [@iastate](https://github.com/iastate)
 
 - Open Source Contributors: [`node.js`](https://github.com/nodejs/node) | [`hexo`](https://github.com/hexojs/hexo) | [`vue3.x`](https://github.com/vuejs/vue-next)
 
